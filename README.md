@@ -1,6 +1,6 @@
 - Hi, I’m syam sundar yadla
 - I’m interested in Data Science
-  I’m currently learning Data Science & machine learning
+- I’m currently learning Data Science & machine learning
 - shyamsundaryedla1@gmail.com
 - https://www.linkedin.com/in/syam-sundar-yadla
   
